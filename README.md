@@ -1,0 +1,2 @@
+# identification_of_fake_twitter_accounts
+AI4ALL Portfolio Project Summer 2022
