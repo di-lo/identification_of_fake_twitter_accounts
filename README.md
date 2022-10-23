@@ -5,6 +5,10 @@ Social media platforms have been entirely an undeniable part of the lifestyle fo
 
 *Find more about the project:* https://docs.google.com/presentation/d/1ElJM0Fu9EsC0kcewvny8e9ssEX9DvSTTdEvQPm04XQ8/edit?usp=sharing
 
+**Comparison of Elon Musk’s Real Account and Alleged Fake Account**
+
+<img width="400" alt="product" src="https://user-images.githubusercontent.com/60364755/197367113-62d7e899-997e-496f-96a5-212d548c6234.png">
+
 ### Data
 
 Firstly, the timeline of each profile has been extracted using the official TwitterAPI. 
