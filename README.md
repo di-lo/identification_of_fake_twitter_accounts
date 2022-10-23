@@ -3,7 +3,7 @@
 
 Social media platforms have been entirely an undeniable part of the lifestyle for the past decade. Analyzing the information being shared is a crucial step to understanding how social media works. By analyzing the text similarity, media content, and published time, I can find the fake accounts according to the comparison of the timeline and similarity percent. Additionally, I can analyze how the media controls us.
 
-*Find more about the project:* https://docs.google.com/presentation/d/1ElJM0Fu9EsC0kcewvny8e9ssEX9DvSTTdEvQPm04XQ8/edit?usp=sharing
+*Find more about the project:* https://docs.google.com/presentation/d/1NgUIf0tQby9R4u9Rjc_SXTKmmGm_UpP5/edit?usp=sharing&ouid=118225436299269584655&rtpof=true&sd=true
 
 **Comparison of Elon Musk’s Real Account and Alleged Fake Account**
 
