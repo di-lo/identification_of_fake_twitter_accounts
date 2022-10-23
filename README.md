@@ -5,6 +5,8 @@ Social media platforms have been entirely an undeniable part of the lifestyle fo
 
 Find more about the project: https://docs.google.com/presentation/d/1ElJM0Fu9EsC0kcewvny8e9ssEX9DvSTTdEvQPm04XQ8/edit?usp=sharing
 
+<img width="400" alt="product" src="https://user-images.githubusercontent.com/60364755/197366861-283ec75f-f9b0-4eed-8cea-54f8ee3d0c3e.png">
+
 *Data*
 
 Firstly, the timeline of each profile has been extracted using the official TwitterAPI. 
